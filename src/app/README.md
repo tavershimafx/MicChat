@@ -1,4 +1,4 @@
-# AugMic Chat
+# Mic Chat
 
 This is a little chat area for everyone involved in our subsequent projects,
 which we wish to expand later by involving groups, calls (video & voice) etc.
